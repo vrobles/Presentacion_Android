@@ -14,6 +14,11 @@
     \author{Vanessa Robles, Ana Cruz, Ricardo Campuzano}
     \date{\today}
 
+      \pgfdeclaremask{apple}{beamer-g4-mask}
+
+       \pgfdeclareimage[interpolate=true,mask=apple,%
+                 width=1.625cm,height=2cm]{apple}{beamer-g4}
+
     \frame{\titlepage}
     
     \section*{Temas}
@@ -34,7 +39,7 @@
       \end{itemize}
     }
 
-    \section{Informacion}
+    \section{Mecanica}
     \subsection{Como se juega Enigma}
 
     \frame{
@@ -42,6 +47,8 @@
       \begin{block}{}
         Una canica debe moverse por el escenario y ha de golpear unos bloques para emparejar los del mismo tipo. Hay muchos objetos distribuidos por cada pantalla, pero no se dan explicaciones sobre que hacen o para que sirven, y es el jugador quien tiene que descubrirlo. En algunos niveles se manejan varias canicas a la vez.
       \end{block}
+
+
 
     }
   \end{CJK}
