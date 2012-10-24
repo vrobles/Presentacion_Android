@@ -1,39 +1,43 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2012.10.22)  22 OCT 2012 18:15
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.20)  24 OCT 2012 01:06
 entering extended mode
-**C:/Documents*and*Settings/Anita/Escritorio/DIPAO/Diapositivas.tex
-("C:/Documents and Settings/Anita/Escritorio/DIPAO/Diapositivas.tex"
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+**C:/Users/Solis/Desktop/Materias*II-2012/Lenguaje*de*Programacion/Presentacion
+_Android/Diapositivas/Diapositivas.tex
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamer.cls"
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasercs.sty"
-Package: beamerbasercs 2012/09/19 (rcs-revision 9cdb60d8ebed)
+("C:/Users/Solis/Desktop/Materias II-2012/Lenguaje de Programacion/Presentacion
+_Android/Diapositivas/Diapositivas.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamer.cls"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasercs.sty"
+Package: beamerbasercs 2012/05/13 (rcs-revision dbbb17cd1fba)
 )
-Document Class: beamer 2011/09/12 development version 3.22 A class for typesett
+Document Class: beamer 2011/09/12 development version 3.19 A class for typesett
 ing presentations (rcs-revision 70f9d8411e54)
-
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasemodes.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasemodes.sty"
 Package: beamerbasemodes 2012/04/15 (rcs-revision cc6557182d97)
 \beamer@tempbox=\box26
 \beamer@tempcount=\count79
 \c@beamerpauses=\count80
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasedecode.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasedecode.sty"
 Package: beamerbasedecode 2010/05/01 (rcs-revision efa082c6111d)
 \beamer@slideinframe=\count81
 \beamer@minimum=\count82
 )
 \beamer@commentbox=\box27
 \beamer@modecount=\count83
-)
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2010/01/28 v2.1 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in pdf mode detected.
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 \headheight=\dimen102
 \headdp=\dimen103
@@ -78,23 +82,25 @@ Package ifpdf Info: pdfTeX in pdf mode detected.
 \beamer@sectionadjust=\count100
 \beamer@tocsectionnumber=\count101
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbaseoptions.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseoptions.sty
+"
 Package: beamerbaseoptions 2010/04/27 (rcs-revision 982469101dd6)
-
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\graphics\keyval.sty"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 ))
 \beamer@paperwidth=\skip42
 \beamer@paperheight=\skip43
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\geometry\geometry.sty"
-Package: geometry 2010/03/13 v5.3 Page Geometry
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\ifvtex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
 Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count102
 \Gm@cntv=\count103
@@ -109,24 +115,24 @@ Package ifvtex Info: VTeX not detected.
 \Gm@layoutvoffset=\dimen126
 \Gm@dimlist=\toks15
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 
 Class beamer Warning: This option works no longer loads ucs. on input line 343.
 
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\inputenc.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\utf8.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\t1enc.dfu"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -276,7 +282,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\ot1enc.dfu"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -307,7 +313,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\omsenc.dfu"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -331,62 +337,63 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\size11.clo"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\pgf\ba
-siclayer\pgfcore.sty"
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\graphics\graphicx.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\pdftex-def\pdftex.def"
-File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
 \Gread@gobject=\count105
 ))
 \Gin@req@height=\dimen127
 \Gin@req@width=\dimen128
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\pgf\sy
-stemlayer\pgfsys.sty"
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\pgf\ut
-ilities\pgfrcs.sty"
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-utilities\pgfutil-common.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.te
+x"
 \pgfutil@everybye=\toks18
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-utilities\pgfutil-latex.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+"
 \pgfutil@abb=\box34
-
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ms\everyshi.sty"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-utilities\pgfrcs.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
 Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
 ))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-systemlayer\pgfsys.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+"
 Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
-
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-utilities\pgfkeys.code.tex"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+"
 \pgfkeys@pathtoks=\toks19
 \pgfkeys@temptoks=\toks20
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-utilities\pgfkeysfiltered.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.c
+ode.tex"
 \pgfkeys@tmptoks=\toks21
 ))
 \pgf@x=\dimen129
@@ -404,34 +411,32 @@ utilities\pgfkeysfiltered.code.tex"
 \c@pgf@countc=\count108
 \c@pgf@countd=\count109
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-systemlayer\pgf.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-systemlayer\pgfsys-pdftex.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.d
+ef"
 File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-systemlayer\pgfsys-common-pdf.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-p
+df.def"
 File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
 )))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-systemlayer\pgfsyssoftpath.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.
+code.tex"
 File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
 \pgfsyssoftpath@smallbuffer@items=\count110
 \pgfsyssoftpath@bigbuffer@items=\count111
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-systemlayer\pgfsysprotocol.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.
+code.tex"
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\xcolor\xcolor.sty"
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\00miktex\color.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -445,18 +450,14 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcore.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+"
 Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
-
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmath.code.tex"
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmathcalc.code.tex"
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmathutil.code.tex")
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmathparser.code.tex"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+"
 \pgfmath@dimen=\dimen137
 \pgfmath@count=\count112
 \pgfmath@box=\box35
@@ -464,28 +465,27 @@ math\pgfmathparser.code.tex"
 \pgfmath@stack@operand=\toks23
 \pgfmath@stack@operation=\toks24
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmathfunctions.code.tex"
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmathfunctions.basic.code.tex")
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmathfunctions.trigonometric.code.tex")
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmathfunctions.random.code.tex")
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmathfunctions.comparison.code.tex")
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmathfunctions.base.code.tex")
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmathfunctions.round.code.tex")
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmathfunctions.misc.code.tex")))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-math\pgfmathfloat.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.
+tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic
+.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigo
+nometric.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.rando
+m.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.compa
+rison.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.
+code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round
+.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.
+code.tex")))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
 \c@pgfmathroundto@lastzeros=\count113
 ))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcorepoints.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.co
+de.tex"
 File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
 \pgf@picminx=\dimen138
 \pgf@picmaxx=\dimen139
@@ -502,575 +502,535 @@ File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
 \pgf@zx=\dimen150
 \pgf@zy=\dimen151
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcorepathconstruct.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconst
+ruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
 \pgf@path@lastx=\dimen152
 \pgf@path@lasty=\dimen153
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcorepathusage.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage
+.code.tex"
 File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
 \pgf@shorten@end@additional=\dimen154
 \pgf@shorten@start@additional=\dimen155
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcorescopes.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.co
+de.tex"
 File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
 \pgfpic=\box36
 \pgf@hbox=\box37
 \pgf@layerbox@main=\box38
 \pgf@picture@serial@count=\count114
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcoregraphicstate.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicst
+ate.code.tex"
 File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
 \pgflinewidth=\dimen156
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcoretransformations.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransform
+ations.code.tex"
 File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
 \pgf@pt@x=\dimen157
 \pgf@pt@y=\dimen158
 \pgf@pt@temp=\dimen159
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcorequick.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.cod
+e.tex"
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcoreobjects.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.c
+ode.tex"
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcorepathprocessing.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathproce
+ssing.code.tex"
 File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcorearrows.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.co
+de.tex"
 File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcoreshade.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.cod
+e.tex"
 File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
 \pgf@max=\dimen160
 \pgf@sys@shading@range@num=\count115
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcoreimage.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.cod
+e.tex"
 File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcoreexternal.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.
+code.tex"
 File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
 \pgfexternal@startupbox=\box39
 ))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcorelayers.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.co
+de.tex"
 File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcoretransparency.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretranspare
+ncy.code.tex"
 File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\generic\pgf\
-basiclayer\pgfcorepatterns.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.
+code.tex"
 File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
 )))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\pgf\ut
-ilities\xxcolor.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\xxcolor.sty"
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count116
 \XC@countmixins=\count117
 )
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\hyperref\hyperref.sty"
-Package: hyperref 2010/03/30 v6.80u Hypertext links for LaTeX
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2011/12/04 v6.82m Hypertext links for LaTeX
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2010/04/08 v1.5 LaTeX kernel commands for general use (HO)
-)
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
-)
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-))
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\pdfescape.sty"
-Package: pdfescape 2010/03/01 v1.9 Provides hex, PDF name and string conversion
-s (HO)
-
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
-
-
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-))
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ifxetex\ifxetex.sty"
-Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
 )
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\oberdiek\hycolor.sty"
-Package: hycolor 2009/12/12 v1.6 Color options of hyperref/bookmark (HO)
-
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\oberdiek\xcolor-patch.sty"
-Package: xcolor-patch 2009/12/12 xcolor patch
-))
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\oberdiek\letltxmacro.sty"
-Package: letltxmacro 2008/06/24 v1.3 Let assignment for LaTeX macros (HO)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
 )
 \@linkdim=\dimen161
 \Hy@linkcounter=\count118
 \Hy@pagecounter=\count119
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\hyperref\pd1enc.def"
-File: pd1enc.def 2010/03/30 v6.80u Hyperref: PDFDocEncoding definition (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2011/12/04 v6.82m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\intcalc.sty"
-Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
-)
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\00miktex\hyperref.cfg"
+\Hy@SavedSpaceFactor=\count120
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
-)
-Package hyperref Info: Option `bookmarks' set `true' on input line 3528.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 3528.
-Package hyperref Info: Option `unicode' set `true' on input line 3528.
+Package hyperref Info: Option `bookmarks' set `true' on input line 3925.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 3925.
+Package hyperref Info: Option `unicode' set `true' on input line 3925.
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\hyperref\puenc.def"
-File: puenc.def 2010/03/30 v6.80u Hyperref: PDF Unicode definition (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+File: puenc.def 2011/12/04 v6.82m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `implicit' set `false' on input line 3528.
-Package hyperref Info: Hyper figures OFF on input line 3609.
-Package hyperref Info: Link nesting OFF on input line 3614.
-Package hyperref Info: Hyper index ON on input line 3617.
-Package hyperref Info: Plain pages OFF on input line 3624.
-Package hyperref Info: Backreferencing OFF on input line 3629.
+Package hyperref Info: Option `implicit' set `false' on input line 3925.
+Package hyperref Info: Hyper figures OFF on input line 4046.
+Package hyperref Info: Link nesting OFF on input line 4051.
+Package hyperref Info: Hyper index ON on input line 4054.
+Package hyperref Info: Plain pages OFF on input line 4061.
+Package hyperref Info: Backreferencing OFF on input line 4066.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4284.
+\c@Hy@tempcnt=\count121
 
-Implicit mode OFF; no redefinition of LaTeX internals
-Package hyperref Info: Bookmarks ON on input line 3825.
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ltxmisc\url.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4105.
-
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\bitset.sty"
-Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
-
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\bigintcalc.sty"
-Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
-))
-\Fld@menulength=\count120
+LaTeX Info: Redefining \url on input line 4637.
+\Fld@menulength=\count122
 \Field@Width=\dimen162
 \Fld@charsize=\dimen163
-\Field@toks=\toks25
-Package hyperref Info: Hyper figures OFF on input line 5083.
-Package hyperref Info: Link nesting OFF on input line 5088.
-Package hyperref Info: Hyper index ON on input line 5091.
-Package hyperref Info: backreferencing OFF on input line 5098.
-Package hyperref Info: Link coloring OFF on input line 5103.
-Package hyperref Info: Link coloring with OCG OFF on input line 5108.
-Package hyperref Info: PDF/A mode OFF on input line 5113.
-LaTeX Info: Redefining \ref on input line 5153.
-LaTeX Info: Redefining \pageref on input line 5157.
+Package hyperref Info: Hyper figures OFF on input line 5757.
+Package hyperref Info: Link nesting OFF on input line 5762.
+Package hyperref Info: Hyper index ON on input line 5765.
+Package hyperref Info: backreferencing OFF on input line 5772.
+Package hyperref Info: Link coloring OFF on input line 5777.
+Package hyperref Info: Link coloring with OCG OFF on input line 5782.
+Package hyperref Info: PDF/A mode OFF on input line 5787.
+LaTeX Info: Redefining \ref on input line 5827.
+LaTeX Info: Redefining \pageref on input line 5831.
+\Hy@abspage=\count123
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\atbegshi.sty"
-Package: atbegshi 2010/03/25 v1.12 At begin shipout hook (HO)
+
+Package hyperref Message: Stopped early.
+
 )
-\Hy@abspage=\count121
 
-Hyperref stopped early
-)
-* hyperref using default driver hpdftex *
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\hyperref\hpdftex.def"
-File: hpdftex.def 2010/03/30 v6.80u Hyperref driver for pdfTeX
+Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\oberdiek\atveryend.sty"
-Package: atveryend 2010/03/24 v1.5 Hooks at very end of document (HO)
-Package atveryend Info: \enddocument detected (standard).
-)
-\Fld@listcount=\count122
-\c@bookmark@seq@number=\count123
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2011/12/04 v6.82m Hyperref driver for pdfTeX
+\Fld@listcount=\count124
+\c@bookmark@seq@number=\count125
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\oberdiek\rerunfilecheck.sty"
-Package: rerunfilecheck 2010/03/16 v1.6 Rerun checks for auxiliary files (HO)
-
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\uniquecounter.sty"
-Package: uniquecounter 2009/12/18 v1.1 Provides unlimited unique counter (HO)
-)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-71.
+82.
 ))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbaserequires.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbaserequires.st
+y"
 Package: beamerbaserequires 2010/05/01  (rcs-revision efa082c6111d)
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasecompatibility.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasecompatibili
+ty.sty"
 Package: beamerbasecompatibility 2012/05/01  (rcs-revision 67c48b3b652d)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasefont.sty"
-Package: beamerbasefont 2012/09/19  (rcs-revision 733629cd0c6c)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasefont.sty"
+Package: beamerbasefont 2012/05/10  (rcs-revision a0b4f9f91ee9)
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\amsfonts\amssymb.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2009/06/22 v3.00
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\amsfonts\amsfonts.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
-\@emptytoks=\toks26
+\@emptytoks=\toks25
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 )))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasetranslator.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetranslator.
+sty"
 Package: beamerbasetranslator 2010/06/11  (rcs-revision 85fd1cc7fc42)
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\translator\translator.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator
+.sty"
 Package: translator 2010/06/12 ver 1.10
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\translator\translator-language-mappings.tex")))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasemisc.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator
+-language-mappings.tex")))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasemisc.sty"
 Package: beamerbasemisc 2012/02/24  (rcs-revision 2ff5461be705)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasetwoscreens.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetwoscreens.
+sty"
 Package: beamerbasetwoscreens 2010/05/01  (rcs-revision efa082c6111d)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbaseoverlay.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseoverlay.sty
+"
 Package: beamerbaseoverlay 2012/04/03  (rcs-revision 45744d9ae88b)
-\beamer@argscount=\count124
+\beamer@argscount=\count126
 \beamer@lastskipcover=\skip44
-\beamer@trivlistdepth=\count125
-)
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasetitle.sty"
+\beamer@trivlistdepth=\count127
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetitle.sty
+"
 Package: beamerbasetitle 2010/09/21  (rcs-revision f0446ed0b6ae)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasesection.sty"
-Package: beamerbasesection 2012/05/30  (rcs-revision 22ff49def670)
-\c@lecture=\count126
-\c@part=\count127
-\c@section=\count128
-\c@subsection=\count129
-\c@subsubsection=\count130
-)
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbaseframe.sty"
-Package: beamerbaseframe 2012/09/13  (rcs-revision dcd846607320)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasesection.sty
+"
+Package: beamerbasesection 2012/02/22  (rcs-revision 9a2581f9efb6)
+\c@lecture=\count128
+\c@part=\count129
+\c@section=\count130
+\c@subsection=\count131
+\c@subsubsection=\count132
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseframe.sty
+"
+Package: beamerbaseframe 2011/09/12  (rcs-revision 70f9d8411e54)
 \beamer@framebox=\box40
 \beamer@frametitlebox=\box41
 \beamer@zoombox=\box42
-\beamer@zoomcount=\count131
-\beamer@zoomframecount=\count132
+\beamer@zoomcount=\count133
+\beamer@zoomframecount=\count134
 \beamer@frametextheight=\dimen164
-\c@subsectionslide=\count133
+\c@subsectionslide=\count135
 \beamer@frametopskip=\skip45
 \beamer@framebottomskip=\skip46
 \beamer@frametopskipautobreak=\skip47
 \beamer@framebottomskipautobreak=\skip48
-\beamer@envbody=\toks27
-\framewidth=\dimen165
-\c@framenumber=\count134
+\beamer@envbody=\toks26
+\c@framenumber=\count136
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbaseverbatim.sty"
-Package: beamerbaseverbatim 2012/08/30  (rcs-revision dfdb135076b3)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseverbatim.st
+y"
+Package: beamerbaseverbatim 2011/09/12  (rcs-revision 70f9d8411e54)
 \beamer@verbatimfileout=\write4
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbaseframesize.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseframesize.s
+ty"
 Package: beamerbaseframesize 2011/09/12  (rcs-revision 70f9d8411e54)
 \beamer@splitbox=\box43
-\beamer@autobreakcount=\count135
-\beamer@autobreaklastheight=\dimen166
-\beamer@frametitletoks=\toks28
-\beamer@framesubtitletoks=\toks29
+\beamer@autobreakcount=\count137
+\beamer@autobreaklastheight=\dimen165
+\beamer@frametitletoks=\toks27
+\beamer@framesubtitletoks=\toks28
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbaseframecomponents.sty"
-Package: beamerbaseframecomponents 2012/09/13  (rcs-revision dcd846607320)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseframecompon
+ents.sty"
+Package: beamerbaseframecomponents 2012/03/07  (rcs-revision 9f094699ce15)
 \beamer@footins=\box44
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasecolor.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasecolor.sty"
 Package: beamerbasecolor 2010/06/06  (rcs-revision d1a9b48be06d)
-)
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasenotes.sty"
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasenotes.sty
+"
 Package: beamerbasenotes 2010/05/01  (rcs-revision efa082c6111d)
 \beamer@frameboxcopy=\box45
-)
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasetoc.sty"
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetoc.sty"
 Package: beamerbasetoc 2012/02/28  (rcs-revision 138681b92320)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasetemplates.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetemplates.s
+ty"
 Package: beamerbasetemplates 2010/05/01  (rcs-revision efa082c6111d)
-\beamer@sbttoks=\toks30
+\beamer@sbttoks=\toks29
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbaseauxtemplates.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseauxtemplate
+s.sty"
 Package: beamerbaseauxtemplates 2012/05/01  (rcs-revision 67c48b3b652d)
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbaseboxes.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbaseboxes.sty"
 Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
 \bmb@box=\box46
 \bmb@colorbox=\box47
 \bmb@boxshadow=\box48
 \bmb@boxshadowball=\box49
 \bmb@boxshadowballlarge=\box50
-\bmb@temp=\dimen167
-\bmb@dima=\dimen168
-\bmb@dimb=\dimen169
-\bmb@prevheight=\dimen170
+\bmb@temp=\dimen166
+\bmb@dima=\dimen167
+\bmb@dimb=\dimen168
+\bmb@prevheight=\dimen169
 )
-\beamer@blockheadheight=\dimen171
+\beamer@blockheadheight=\dimen170
 ))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbaselocalstructure.sty"
-Package: beamerbaselocalstructure 2012/05/25  (rcs-revision 5ff5e8ed7c0e)
-
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\tools\enumerate.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbaselocalstruct
+ure.sty"
+Package: beamerbaselocalstructure 2012/03/11  (rcs-revision 96ee3b332f84)
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
 Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
-\@enLab=\toks31
+\@enLab=\toks30
 )
-\c@figure=\count136
-\c@table=\count137
+\c@figure=\count138
+\c@table=\count139
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasenavigation.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasenavigation.
+sty"
 Package: beamerbasenavigation 2012/04/03  (rcs-revision 42a0f21a412d)
-\beamer@section@min@dim=\dimen172
+\beamer@section@min@dim=\dimen171
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasetheorems.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasetheorems.st
+y"
 Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
-
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ams\math\amsmath.sty"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ams\math\amstext.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ams\math\amsgen.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks32
-\ex@=\dimen173
+\@emptytoks=\toks31
+\ex@=\dimen172
 ))
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ams\math\amsbsy.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen174
+\pmbraise@=\dimen173
 )
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ams\math\amsopn.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count138
+\inf@bad=\count140
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count139
-\leftroot@=\count140
+\uproot@=\count141
+\leftroot@=\count142
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count141
-\DOTSCASE@=\count142
+\classnum@=\count143
+\DOTSCASE@=\count144
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
 \Mathstrutbox@=\box51
 \strutbox@=\box52
-\big@size=\dimen175
+\big@size=\dimen174
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count143
-\c@MaxMatrixCols=\count144
+\macc@depth=\count145
+\c@MaxMatrixCols=\count146
 \dotsspace@=\muskip11
-\c@parentequation=\count145
-\dspbrk@lvl=\count146
-\tag@help=\toks33
-\row@=\count147
-\column@=\count148
-\maxfields@=\count149
-\andhelp@=\toks34
-\eqnshift@=\dimen176
-\alignsep@=\dimen177
-\tagshift@=\dimen178
-\tagwidth@=\dimen179
-\totwidth@=\dimen180
-\lineht@=\dimen181
-\@envbody=\toks35
+\c@parentequation=\count147
+\dspbrk@lvl=\count148
+\tag@help=\toks32
+\row@=\count149
+\column@=\count150
+\maxfields@=\count151
+\andhelp@=\toks33
+\eqnshift@=\dimen175
+\alignsep@=\dimen176
+\tagshift@=\dimen177
+\tagwidth@=\dimen178
+\totwidth@=\dimen179
+\lineht@=\dimen180
+\@envbody=\toks34
 \multlinegap=\skip52
 \multlinetaggap=\skip53
-\mathdisplay@stack=\toks36
+\mathdisplay@stack=\toks35
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ams\classes\amsthm.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\classes\amsthm.sty"
 Package: amsthm 2004/08/06 v2.20
-\thm@style=\toks37
-\thm@bodyfont=\toks38
-\thm@headfont=\toks39
-\thm@notefont=\toks40
-\thm@headpunct=\toks41
+\thm@style=\toks36
+\thm@bodyfont=\toks37
+\thm@headfont=\toks38
+\thm@notefont=\toks39
+\thm@headpunct=\toks40
 \thm@preskip=\skip54
 \thm@postskip=\skip55
 \thm@headsep=\skip56
-\dth@everypar=\toks42
+\dth@everypar=\toks41
 )
-\c@theorem=\count150
+\c@theorem=\count152
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\beamerbasethemes.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\beamerbasethemes.sty"
 Package: beamerbasethemes 2010/05/01  (rcs-revision efa082c6111d)
 ))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\theme\beamerthemedefault.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\theme\beamerth
+emedefault.sty"
 Package: beamerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\font\beamerfontthemedefault.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\font\beamerfon
+tthemedefault.sty"
 Package: beamerfontthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\color\beamercolorthemedefault.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\color\beamerco
+lorthemedefault.sty"
 Package: beamercolorthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\inner\beamerinnerthemedefault.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\inner\beamerin
+nerthemedefault.sty"
 Package: beamerinnerthemedefault 2012/05/01  (rcs-revision 67c48b3b652d)
-\beamer@dima=\dimen182
-\beamer@dimb=\dimen183
+\beamer@dima=\dimen181
+\beamer@dimb=\dimen182
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\outer\beamerouterthemedefault.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\outer\beamerou
+terthemedefault.sty"
 Package: beamerouterthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\theme\compatibility\beamerthemesplit.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\theme\compatib
+ility\beamerthemesplit.sty"
 Package: beamerthemesplit 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\color\beamercolorthemewhale.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\color\beamerco
+lorthemewhale.sty"
 Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\outer\beamerouterthemesplit.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\outer\beamerou
+terthemesplit.sty"
 Package: beamerouterthemesplit 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\font\beamerfontthemestructurebold.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\font\beamerfon
+tthemestructurebold.sty"
 Package: beamerfontthemestructurebold 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ))
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\latexsym.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latexsym.sty"
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\eurosym\eurosym.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box53
 )
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\babel\babel.sty"
-Package: babel 2008/07/06 v3.8l The Babel package
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\00miktex\bblopts.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\babel\spanish.ldf"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\spanish.ldf"
 Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\babel\babel.def"
-File: babel.def 2008/07/06 v3.8l Babel common definitions
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
 LaTeX Info: Redefining \textlatin on input line 82.
-\babel@savecnt=\count151
-\U@D=\dimen184
+\babel@savecnt=\count153
+\U@D=\dimen183
 )
-
-Package babel Warning: No hyphenation patterns were loaded for
-(babel)                the language `Spanish'
-(babel)                I will use the patterns loaded for \language=0 instead.
-
-\l@spanish = a dialect from \language0
-\es@datefmt=\count152
-\es@quottoks=\toks43
-\es@quotdepth=\count153
+\es@datefmt=\count154
+\es@quottoks=\toks42
+\es@quotdepth=\count155
 Package babel Info: Making " an active character on input line 492.
 Package babel Info: Making . an active character on input line 585.
 Package babel Info: Making < an active character on input line 630.
 Package babel Info: Making > an active character on input line 630.
 Package babel Info: Making ' an active character on input line 657.
-)) ("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ae\ae.sty"
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\ae.sty"
 Package: ae 2001/02/12 1.3 Almost European Computer Modern
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\fontenc.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\base\t1enc.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 )
 LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ae\t1aer.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aer.fd"
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 )))
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ae\aecompl.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\aecompl.sty"
 Package: aecompl 1998/07/23 0.9 T1 Complements for AE fonts (D. Roegel)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\theme\beamerthemeWarsaw.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\theme\beamerth
+emeWarsaw.sty"
 Package: beamerthemeWarsaw 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\inner\beamerinnerthemerounded.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\inner\beamerin
+nerthemerounded.sty"
 Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\outer\beamerouterthemeshadow.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\outer\beamerou
+terthemeshadow.sty"
 Package: beamerouterthemeshadow 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\color\beamercolorthemeorchid.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\color\beamerco
+lorthemeorchid.sty"
 Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ))
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\themes\color\beamercolorthemestructure.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\color\beamerco
+lorthemestructure.sty"
 Package: beamercolorthemestructure 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-("C:\Documents and Settings\Anita\Escritorio\DIPAO\Diapositivas.aux")
+("C:\Users\Solis\Desktop\Materias II-2012\Lenguaje de Programacion\Presentacion
+_Android\Diapositivas\Diapositivas.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
@@ -1089,16 +1049,17 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Try loading font information for T1+aess on input line 24.
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\ae\t1aess.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aess.fd"
 File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: 364.19536pt, 273.14662pt (class default)
-* layout: 364.19536pt, 273.14662pt
-* switch(es): includehead includefoot 
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
 * h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
@@ -1110,6 +1071,7 @@ File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
+* \topskip=11.0pt
 * \footskip=14.22636pt
 * \marginparwidth=4.0pt
 * \marginparsep=10.0pt
@@ -1122,39 +1084,41 @@ File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
 * \@twosidefalse
 * \@mparswitchfalse
 * \@reversemarginfalse
-* (1in=72.27pt, 1cm=28.453pt)
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count154
-\scratchdimen=\dimen185
+\scratchcounter=\count156
+\scratchdimen=\dimen184
 \scratchbox=\box54
-\nofMPsegments=\count155
-\nofMParguments=\count156
-\everyMPshowfont=\toks44
-\MPscratchCnt=\count157
-\MPscratchDim=\dimen186
-\MPnumerator=\count158
-\everyMPtoPDFconversion=\toks45
+\nofMPsegments=\count157
+\nofMParguments=\count158
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count159
+\MPscratchDim=\dimen185
+\MPnumerator=\count160
+\makeMPintoPDFobject=\count161
+\everyMPtoPDFconversion=\toks44
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box55
 Package hyperref Info: Link coloring OFF on input line 24.
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\hyperref\nameref.sty"
-Package: nameref 2010/01/25 v2.36 Cross-referencing by name of section
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
-("C:\Archivos de programa\MiKTeX 2.8\tex\latex\oberdiek\refcount.sty"
-Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-("C:\Archivos de programa\MiKTeX 2.8\tex\generic\oberdiek\gettitlestring.sty"
-Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
-)
-\c@section@level=\count159
+\c@section@level=\count162
 )
 LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
-("C:\Documents and Settings\Anita\Escritorio\DIPAO\Diapositivas.out")
-("C:\Documents and Settings\Anita\Escritorio\DIPAO\Diapositivas.out")
+LaTeX Info: Redefining \nameref on input line 24.
+
+("C:\Users\Solis\Desktop\Materias II-2012\Lenguaje de Programacion\Presentacion
+_Android\Diapositivas\Diapositivas.out")
+("C:\Users\Solis\Desktop\Materias II-2012\Lenguaje de Programacion\Presentacion
+_Android\Diapositivas\Diapositivas.out")
 \@outlinefile=\write5
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 24.
@@ -1199,120 +1163,133 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  T1/aett/m/n --> T1/aett/bx/n on input line 24.
 
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\translator\dicts\translator-basic-dictionary\translator-basic-dictionary-
-English.dict"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-basic-dictionary\translator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\translator\dicts\translator-bibliography-dictionary\translator-bibliograp
-hy-dictionary-English.dict"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-bibliography-dictionary\translator-bibliography-dictionary-English.dict"
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\translator\dicts\translator-environment-dictionary\translator-environment
--dictionary-English.dict"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-environment-dictionary\translator-environment-dictionary-English.dict"
 Dictionary: translator-environment-dictionary, Language: English 
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\translator\dicts\translator-months-dictionary\translator-months-dictionar
-y-English.dict"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-months-dictionary\translator-months-dictionary-English.dict"
 Dictionary: translator-months-dictionary, Language: English 
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\translator\dicts\translator-numbers-dictionary\translator-numbers-diction
-ary-English.dict"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-numbers-dictionary\translator-numbers-dictionary-English.dict"
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-("C:\Documents and Settings\Anita\Datos de programa\MiKTeX\2.8\tex\latex\beamer
-\base\translator\dicts\translator-theorem-dictionary\translator-theorem-diction
-ary-English.dict"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-theorem-dictionary\translator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 LaTeX Info: Redefining \includegraphics on input line 24.
 
-("C:\Documents and Settings\Anita\Escritorio\DIPAO\Diapositivas.nav")
-<logo.jpg, id=36, 129.48375pt x 173.14688pt>
+("C:\Users\Solis\Desktop\Materias II-2012\Lenguaje de Programacion\Presentacion
+_Android\Diapositivas\Diapositivas.nav")
+<logo.jpg, id=29, 129.48375pt x 173.14688pt>
 File: logo.jpg Graphic file (type jpg)
- <use logo.jpg> [1
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 30.
+(pdftex.def)             Requested size: 61.45703pt x 82.1822pt.
+ [1
 
-{C:/Documents and Settings/Anita/Configuración local/Datos de programa/MiKTeX/2
-.8/pdftex/config/pdftex.map} <C:/Documents and Settings/Anita/Escritorio/DIPAO/
-logo.jpg>]
-("C:\Documents and Settings\Anita\Escritorio\DIPAO\Diapositivas.toc") [2
-
-]
-("C:\Documents and Settings\Anita\Escritorio\DIPAO\Diapositivas.toc") [3
-
-]
-("C:\Documents and Settings\Anita\Escritorio\DIPAO\Diapositivas.toc") [4
+{C:/Users/Solis/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/So
+lis/Desktop/Materias II-2012/Lenguaje de Programacion/Presentacion_Android/Diap
+ositivas/logo.jpg>]
+("C:\Users\Solis\Desktop\Materias II-2012\Lenguaje de Programacion\Presentacion
+_Android\Diapositivas\Diapositivas.toc") [2
 
 ]
-("C:\Documents and Settings\Anita\Escritorio\DIPAO\Diapositivas.toc") [5
+("C:\Users\Solis\Desktop\Materias II-2012\Lenguaje de Programacion\Presentacion
+_Android\Diapositivas\Diapositivas.toc") [3
 
 ]
-[6
+("C:\Users\Solis\Desktop\Materias II-2012\Lenguaje de Programacion\Presentacion
+_Android\Diapositivas\Diapositivas.toc") [4
+
+] [5
+
+] [6
 
 ] [7
 
-] [8
 
-] <cargando.png, id=310, 804.00375pt x 963.6pt>
+]
+<cargando.png, id=260, 804.00375pt x 963.6pt>
 File: cargando.png Graphic file (type png)
  <use cargando.png>
-<menuprincipal.png, id=312, 193.72375pt x 404.51125pt>
+Package pdftex.def Info: cargando.png used on input line 66.
+(pdftex.def)             Requested size: 92.1879pt x 110.48083pt.
+
+<menuprincipal.png, id=262, 193.72375pt x 404.51125pt>
 File: menuprincipal.png Graphic file (type png)
  <use menuprincipal.png>
-<factura.png, id=313, 476.0184pt x 385.44pt>
+Package pdftex.def Info: menuprincipal.png used on input line 66.
+(pdftex.def)             Requested size: 92.1879pt x 192.49666pt.
+
+<factura.png, id=263, 476.0184pt x 385.44pt>
 File: factura.png Graphic file (type png)
  <use factura.png>
-Overfull \vbox (1.13802pt too high) detected at line 78
- []
+Package pdftex.def Info: factura.png used on input line 66.
+(pdftex.def)             Requested size: 92.1879pt x 74.64587pt.
+ [8
 
-[9
-
- <C:/Documents and Settings/Anita/Escritorio/DIPAO/cargando.png> <C:/Documents 
-and Settings/Anita/Escritorio/DIPAO/menuprincipal.png> <C:/Documents and Settin
-gs/Anita/Escritorio/DIPAO/factura.png>]
-<informe_gastos.png, id=346, 300.12125pt x 278.03876pt>
+ <C:/Users/Solis/Desktop/Materias II-2012/Lenguaje de Programacion/Presentacion
+_Android/Diapositivas/cargando.png> <C:/Users/Solis/Desktop/Materias II-2012/Le
+nguaje de Programacion/Presentacion_Android/Diapositivas/menuprincipal.png> <C:
+/Users/Solis/Desktop/Materias II-2012/Lenguaje de Programacion/Presentacion_And
+roid/Diapositivas/factura.png>] <informe_gastos.png, id=295, 300.12125pt x 278.
+03876pt>
 File: informe_gastos.png Graphic file (type png)
 
-<use informe_gastos.png> <alarma_over.png, id=347, 193.72375pt x 305.14pt>
+<use informe_gastos.png>
+Package pdftex.def Info: informe_gastos.png used on input line 74.
+(pdftex.def)             Requested size: 92.1879pt x 85.40201pt.
+ <alarma_over.png, id=296, 193.72375pt x 305.14pt>
 File: alarma_over.png Graphic file (type png)
 
-<use alarma_over.png> <micuentaelimi_over.png, id=348, 193.72375pt x 305.14pt>
-File: micuentaelimi_over.png Graphic file (type png)
+<use alarma_over.png>
+Package pdftex.def Info: alarma_over.png used on input line 74.
+(pdftex.def)             Requested size: 92.1879pt x 145.20839pt.
+ [9
 
-<use micuentaelimi_over.png> [10
-
- <C:/Documents and Settings/Anita/Escritorio/DIPAO/informe_gastos.png> <C:/Docu
-ments and Settings/Anita/Escritorio/DIPAO/alarma_over.png> <C:/Documents and Se
-ttings/Anita/Escritorio/DIPAO/micuentaelimi_over.png>]
+ <C:/Users/Solis/Desktop/Materias II-2012/Lenguaje de Programacion/Presentacion
+_Android/Diapositivas/informe_gastos.png> <C:/Users/Solis/Desktop/Materias II-2
+012/Lenguaje de Programacion/Presentacion_Android/Diapositivas/alarma_over.png>
+]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
- ("C:\Documents and Settings\Anita\Escritorio\DIPAO\Diapositivas.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 76.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
+
+("C:\Users\Solis\Desktop\Materias II-2012\Lenguaje de Programacion\Presentacion
+_Android\Diapositivas\Diapositivas.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 76.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 76.
 Package rerunfilecheck Info: File `Diapositivas.out' has not changed.
-(rerunfilecheck)             Checksum: F8558A681CC5867DDAD382035453581A;433.
+(rerunfilecheck)             Checksum: 5906316DD5659701BFBC98599F473C4B;441.
  ) 
 Here is how much of TeX's memory you used:
- 17476 strings out of 495285
- 324470 string characters out of 3179734
- 382134 words of memory out of 3000000
- 20162 multiletter control sequences out of 15000+200000
+ 17725 strings out of 494045
+ 321841 string characters out of 3145969
+ 394969 words of memory out of 3000000
+ 20547 multiletter control sequences out of 15000+200000
  22680 words of font info for 44 fonts, out of 3000000 for 9000
- 14 hyphenation exceptions out of 8191
- 49i,19n,62p,760b,814s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Archivos de programa/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmss10.pfb
-><C:/Archivos de programa/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmss12.pfb>
-<C:/Archivos de programa/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmss8.pfb><C
-:/Archivos de programa/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on Diapositivas.pdf (10 pages, 400850 bytes).
+ 715 hyphenation exceptions out of 8191
+ 49i,19n,62p,501b,810s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
+Output written on Diapositivas.pdf (9 pages, 381683 bytes).
 PDF statistics:
- 402 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 158 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 348 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
